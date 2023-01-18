@@ -1,0 +1,5 @@
+__pycache__
+myproject/venv/__pycache__
+myproject/venv/bin
+myproject/venv/lib
+myproject/venv/pyvenve.cfg
